@@ -21,7 +21,7 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-bookstore-crud.git
+   git clone https://github.com/blessziamah/MERN-Bookstore.git
    ```
 
 2. Navigate to the project directory:
@@ -49,22 +49,3 @@ To get started with this project, follow these steps:
    npm install
    npm run dev
    ```
-
-
-```
-
-## Contributing
-
-Contributions are welcome! Feel free to open issues or pull requests to suggest improvements, report bugs, or add new features.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- React Team
-- Vite Team
-- Open Source Community
-
-Thank you for using and contributing to this project!
